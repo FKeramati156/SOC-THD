@@ -1,2 +1,4 @@
 # SOC-THD
 Exploring the Influence of Electric Vehicle Battery State of Charge and Charging Algorithms on THD 
+
+In this simulation, the influence of the State of Charge (SOC) on harmonic distortion during electric vehicle charging was examined using MATLAB Simulink. A non-ideal model of a single-phase on-board charger was simulated to reflect real-world charging conditions. The simulation examined electric vehicles with varying SOC levels, different charge algorithms (Constant Current (CC), Multi-Stage Constant Current (MCC), and Constant Current and Voltage (CCCV)), as well as varying nominal voltage and nominal power. The primary focus was to assess how different SOC values impact the harmonic distortion produced during the charging process, providing valuable insights into how charge algorithms can be optimized to reduce power quality issues in electric vehicle charging systems.
